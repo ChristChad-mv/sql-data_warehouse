@@ -1,4 +1,4 @@
-# Data Warehouse Project 🏢
+# Data Warehouse Project
 
 ## Overview
 A comprehensive data warehouse solution that demonstrates end-to-end data storage capabilities, from warehouse construction to actionable insights generation.
